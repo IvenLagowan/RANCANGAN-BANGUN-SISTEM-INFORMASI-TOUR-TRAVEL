@@ -1,0 +1,84 @@
+.user-side-menu-bg{
+    background-color:  #0D2857;
+    color: white;
+    border-width: 1px;
+    height: 650px;
+    width: 300px;
+    margin-top: -50px;
+    border-width: 1px;
+    border-style: ridge;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.list-color{
+    color: white;
+}
+
+.active .menu-item {
+    font-weight: bold;
+    border-bottom: 2px outset rgba(0, 0, 0, 0.511); 
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    color: black;
+}
+
+.highlighted {
+    background-color: #000000;
+    color: white;
+    border-radius: 10px;
+}
+
+.mouse-hand{
+    cursor: pointer;
+}
+
+
+.dashbord-bg{
+    background-color: rgba(104, 137, 255, 0.121);
+    border-radius: 10px;
+    height: 550px;
+    width: 1100px;
+    margin-bottom: 50px;
+    
+}
+
+.dashbord-bg-sizeBig{
+    background-color: rgba(104, 137, 255, 0.121);
+    border-radius: 10px;
+    height: 550px;
+    width: 1100px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    
+}
+
+.dashbord-icon{
+    height: 35px;
+    padding: 5px;
+}
+
+.NeedHelp-css-sideMenu{
+    border-radius: 10px;
+    border-style: outset;
+    border-width: 1px;
+    border-color: aliceblue;
+    color: rgb(255, 255, 255);
+}
+
+/* invoice page profile */
+.profile-invoice-detail-bg{
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+}
+.profile-invoice{
+    border-style: inset;
+}
+.payment-bg{
+    border-style: dashed;
+    padding: 30px;
+    margin-top: 1px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}

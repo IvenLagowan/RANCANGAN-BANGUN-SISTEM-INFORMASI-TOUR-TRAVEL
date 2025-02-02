@@ -1,0 +1,47 @@
+.contac-form{
+    position: absolute;
+    width: 400px;
+    /* height: 600px; */
+    background-color: rgba(255, 255, 255, 0.896);
+    margin-top: -350px;
+    border-radius: 6px;
+    border-color: black;
+    border-width: 1px;
+    border-style: outset;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.map-position{
+    position: relative;
+}
+
+ul{
+    list-style-type: none; 
+}
+
+/* for aleart massage */
+.message-overlay{
+    position: relative;
+    z-index: 1;
+  
+}
+
+/* for admin css */
+.massage-box{
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    width: 900px;
+    padding-bottom: 80px;
+    padding-top: 5px;
+}
+.massage-box-main{
+    background-color:#ffffff;
+    border-radius: 6px;
+    border-style:dashed;
+    border-bottom-width: 2px;
+    /* width: 900px; */
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+

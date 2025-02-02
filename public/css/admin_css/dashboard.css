@@ -1,0 +1,56 @@
+#sidebarMenu{
+    height: 1200px;
+     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.SideMenuPosition{
+    margin-top: 20px;
+}
+
+.list-bg{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.font-style{
+    text-decoration: none;
+    color: black;
+}
+
+.font-style.active {
+    font-weight: bolder;
+    /* border-bottom: 1px outset rgba(245, 245, 245, 0.511);  */
+    border-left: 6px outset rgba(0, 0, 0, 0.511);
+    background-color: rgba(90, 103, 245, 0.319);
+    border-radius: 4px;
+    color: blue;
+}
+
+.dashbord-icon{
+    height: 35px;
+    padding: 5px;
+}
+
+/* dashbord content css start */
+/* .upcoming-events-bg{
+    height: 500px;
+    
+} */
+.upcoming-events-details{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.user-bg{
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    height: 250px;
+    border-radius: 6px;
+}
+.resavation-bg{
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    height: 250px;
+    border-radius: 6px;
+}
+
